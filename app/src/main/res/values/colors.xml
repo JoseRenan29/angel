@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Fbackground">#181818</color>
+    <color name="TS_Color">#8C52FF</color>
+    <color name="Btn_FColor">#D9D9D9</color>
+    <color name="surface">#1A2744</color>
+    <color name="primary">#0075FF</color>
+    <color name="secondary">#223051</color>
+</resources>
